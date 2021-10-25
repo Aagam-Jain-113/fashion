@@ -9,6 +9,10 @@ module.exports = {
       colors:{
         "background": "#FCFBF9",
         "navBorder": "#F6F5F1",
+        "pink": "#CD3E4A"
+      },
+      inset:{
+        "60":"40%",
       }
     },
   },

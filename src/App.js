@@ -1,10 +1,12 @@
 import Navbar from "./components/Navbar";
 import React from "react";
+import Hero from './Hero'
 
 function App() {
   return (
-    <div className="App bg-background h-screen">
+    <div className="h-screen App bg-background">
       <Navbar />
+      <Hero />
     </div>
   );
 }
